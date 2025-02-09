@@ -15,7 +15,7 @@
    <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="logo" width="100" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="logo" width="100" />
   </p>
-
+<P>Verse is a real-time music and chat application that connects users based on their music preferences. Enjoy seamless conversations while listening to your favorite tunes, all in one place. A live chatbot is available to assist you and can even craft beautiful lyrics tailored to your requests.</P>
   ## Features
   - Listen to music in real-time with friends or in public/private rooms.
   - Chat while listening to enhance the shared experience.
