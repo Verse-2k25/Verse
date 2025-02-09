@@ -45,6 +45,10 @@
   - Caddy
   - Azure VM
   
+# Repo Links :
+  Backend : https://github.com/Verse-2k25/music-chat-backend
+# Pitching Video: 
+https://youtu.be/6Su7-VmJ-jA
 
  # Screenshots 
 ![Screenshot 2025-02-09 012546](https://github.com/user-attachments/assets/4259d429-31c4-441c-ba83-b5aa596306ed)
